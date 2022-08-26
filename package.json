@@ -1,0 +1,8 @@
+{
+  "name": "@yth/is-yethiha-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MightyCryptowall/my-frist-npm-package.git",
+  "author": "Ye Thiha",
+  "license": "MIT"
+}
